@@ -1,5 +1,5 @@
 # ApacheJMeter_oauth
-OAuth Sampler for JMeter
+OAuth 1.0 Sampler for JMeter
 
 This JAR implements a JMeter sampler called "OAuth Request".
 It's based on HTTP Request with HTTPClient and supports
