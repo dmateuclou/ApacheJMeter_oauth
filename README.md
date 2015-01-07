@@ -5,7 +5,7 @@ This JAR implements a JMeter sampler called "OAuth Request".
 
 It's based on HTTP Request with HTTPClient and supports OAuth signing.
 
-To install the plugin, download the binary distribution of JMeter and copy the following files
+To install the plugin, download the [binary distribution of JMeter](http://jmeter.apache.org/download_jmeter.cgi) and copy the following files
 
     * target/lib/oauth-20100527.jar         on JMETER_HOME/lib
     * target/ApacheJMeter_oauth-v2.jar      on JMETER_HOME/lib/ext
